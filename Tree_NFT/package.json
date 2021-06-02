@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@chainlink/contracts": "^0.1.7",
+    "@openzeppelin/contracts": "^4.1.0",
+    "brownie": "^0.9.9",
+    "chainlink-brownie-contracts": "smartcontractkit/chainlink-brownie-contracts",
+    "openzeppelin-solidity": "^4.1.0",
+    "python": "^0.0.4"
+  }
+}
